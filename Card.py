@@ -14,6 +14,6 @@ class Card :
         self.couleur = 0
         self.valeur = 12
 
-Roi_de_trèfle = Card()
-print(Roi_de_trèfle)     
+Roi_de_trefle = Card()
+print(Roi_de_trefle)     
 
